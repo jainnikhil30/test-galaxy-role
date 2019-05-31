@@ -2,5 +2,3 @@
 - name: Ensure package appmonitor is installed
   debug:
     msg: "I am a role"
-- pause:
-    minutes: 5
