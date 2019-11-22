@@ -1,4 +1,4 @@
 ---
-- name: Ensure package appmonitor is installed
+- name: print the role_path
   debug:
-    msg: "I am a role"
+    msg: "role path is: {{ role_path }}"
