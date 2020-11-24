@@ -4,4 +4,4 @@
     msg: "role path is: {{ role_path }}"
 - name: sleep for 1 min 
   pause:
-    seconds: 60
+    seconds: 30
